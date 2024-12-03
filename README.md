@@ -8,7 +8,7 @@
 
 Clique na imagem para visualizar o dashboard interativo no Power BI:
 
-[![ProjetoGame](https://github.com/arthurffc8/Inadimplencia-Nubank/blob/main/Captura%20de%20tela_3-12-2024_185916_.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiOWM4ZWI2Y2EtZTI5OS00ZTkzLWJmYTctYzhkYTgxMmQzNTNkIiwidCI6ImRmY2E2YzQyLWM0NjktNDg1Ny05NDk5LWViN2YzNjczZjY4NCJ9)
+[![ProjetoGame](https://github.com/arthurffc8/Inadimplencia-Nubank/blob/main/Captura%20de%20tela_3-12-2024_185916_.jpeg)](https://sites.google.com/view/arthurferreira/projetos/inadimpl%C3%AAncia-nubank)
 
 A Social Wave, uma empresa atuante no mercado de marketing digital, busca maximizar o retorno sobre seus investimentos em anúncios nas principais plataformas digitais. Recentemente, após aumentar o orçamento das campanhas e dividir o montante de forma igualitária entre as plataformas, observou-se um aumento significativo no CPA (Custo por Aquisição).
 
